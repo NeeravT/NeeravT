@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeeravT
-- 👀 I’m interested in AI (Artificial Intelligence), including machine learning, neural networks and data analysis. 
+- 👀 I’m interested in computer networking and cyber security, and am planning to get both the Network+ and Security+ certifications from CompTIA.
 - 🌱 I’m currently learning the Python programming language.
-- 💞️ I’m looking to collaborate on projects on machine learning and data science.
+- 💞️ I’m looking to collaborate on projects on computer networking and cyber security.
 - 📫 How to reach me: neeravbtrivedi@gmail.com
 
 <!---
